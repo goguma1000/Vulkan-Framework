@@ -1,0 +1,4 @@
+﻿  VulkanRenderer.cpp
+C:\Users\zzzeh\Desktop\dongho engine\VulkanRenderer\Include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\zzzeh\Desktop\dongho engine\VulkanRenderer\VulkanRenderer\VulkanRenderer.cpp(67,45): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VulkanRenderer.vcxproj -> C:\Users\zzzeh\Desktop\dongho engine\VulkanRenderer\x64\Debug\VulkanRenderer.exe
